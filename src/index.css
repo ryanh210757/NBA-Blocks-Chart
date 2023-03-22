@@ -1,0 +1,12 @@
+.graphLabel{
+    display: flex;
+}
+.video{
+    margin: 0 auto;
+    width: 1000;
+    height: 520;
+}
+
+.xLabel{
+    text-align: center;
+}

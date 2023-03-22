@@ -771,7 +771,7 @@ var _api = require("./api");
             labels: data.map((row)=>row.year),
             datasets: [
                 {
-                    label: "Hakeem Olajuwon ",
+                    label: `Hakeem Olajuwon`,
                     data: data.map((row)=>row.count)
                 },
                 {
@@ -779,12 +779,12 @@ var _api = require("./api");
                     data: ad.map((row)=>row.count)
                 },
                 {
-                    label: "Rudy Gobert",
-                    data: rudy.map((row)=>row.count)
-                },
-                {
                     label: "Myles Turner",
                     data: myles.map((row)=>row.count)
+                },
+                {
+                    label: "Rudy Gobert",
+                    data: rudy.map((row)=>row.count)
                 }
             ]
         }

@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAGA;;;;;;AAMA","sources":["src/index.css"],"sourcesContent":[".graphLabel{\n    display: flex;\n}\n.video{\n    margin: 0 auto;\n    width: 1000;\n    height: 520;\n}\n\n.xLabel{\n    text-align: center;\n}"],"names":[],"version":3,"file":"index.61d3354a.css.map","sourceRoot":"/__parcel_source_root/"}
