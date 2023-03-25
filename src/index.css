@@ -1,3 +1,5 @@
+
+
 .graphLabel{
     display: flex;
 }
@@ -7,6 +9,3 @@
     height: 520;
 }
 
-.xLabel{
-    text-align: center;
-}
