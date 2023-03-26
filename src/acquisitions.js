@@ -8,18 +8,19 @@ import { getAquisitionsByYear } from './api'
     { year: 3, count: 700},
     { year: 4, count: 914},
     { year: 5, count: 1196},
-    { year: 6, count: 1793 },
-    { year: 7, count: 2097},
-    { year: 8, count: 2439},
-    { year: 9, count: 2736},
-    { year: 10, count: 2978},
-    { year: 11, count: 3185},
-    { year: 12, count: 3358 },
-    { year: 13, count: 3454},
-    { year: 14, count: 3577},
-    { year: 15, count: 3647},
-    { year: 16, count: 3735 },
-    { year: 17, count: 3825}
+    { year: 6, count: 1572 },
+    { year: 7, count: 1793 }, 
+    { year: 8, count: 2097},
+    { year: 9, count: 2439},
+    { year: 10, count: 2736},
+    { year: 11, count: 2978},
+    { year: 12, count: 3185},
+    { year: 13, count: 3358 },
+    { year: 14, count: 3454},
+    { year: 15, count: 3577},
+    { year: 16, count: 3647},
+    { year: 17, count: 3735 },
+    { year: 18, count: 3825}
   ]
 
   const ad = [

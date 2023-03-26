@@ -585,50 +585,54 @@ var _api = require("./api");
         },
         {
             year: 6,
-            count: 1793
+            count: 1572
         },
         {
             year: 7,
-            count: 2097
+            count: 1793
         },
         {
             year: 8,
-            count: 2439
+            count: 2097
         },
         {
             year: 9,
-            count: 2736
+            count: 2439
         },
         {
             year: 10,
-            count: 2978
+            count: 2736
         },
         {
             year: 11,
-            count: 3185
+            count: 2978
         },
         {
             year: 12,
-            count: 3358
+            count: 3185
         },
         {
             year: 13,
-            count: 3454
+            count: 3358
         },
         {
             year: 14,
-            count: 3577
+            count: 3454
         },
         {
             year: 15,
-            count: 3647
+            count: 3577
         },
         {
             year: 16,
-            count: 3735
+            count: 3647
         },
         {
             year: 17,
+            count: 3735
+        },
+        {
+            year: 18,
             count: 3825
         }
     ];
