@@ -1,4 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .graphLabel {
+  justify-content: center;
   display: flex;
 }
 
@@ -6,6 +12,10 @@
   width: 1000px;
   height: 520px;
   margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
 }
 
 /*# sourceMappingURL=index.61d3354a.css.map */

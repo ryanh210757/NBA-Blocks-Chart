@@ -1,7 +1,10 @@
-
-
+body{
+    padding: 0;
+    margin: 0;
+}
 .graphLabel{
     display: flex;
+    justify-content: center;
 }
 .video{
     margin: 0 auto;
@@ -9,3 +12,6 @@
     height: 520;
 }
 
+h1{
+    text-align: center;
+}
